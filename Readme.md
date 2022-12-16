@@ -33,7 +33,7 @@
 
 ### Connect & Contact Point  
 
-[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/mohammad-yaseen-0a3175251/)  
+[<img src="https://img.shields.io/badge/-LinkedIn-000000?style=social&logo=linkedin" />](https://www.linkedin.com/in/shaik-roshan-zameer-a13a55243/details/experience/)  
 ### Languages 
 
 
